@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "RKEEL"]
 	path = RKEEL
 	url = https://github.com/cran/RKEEL
-	shallow = true
-	registered = true
 [submodule "RKEELdata"]
 	path = RKEELdata
 	url = https://github.com/cran/RKEELdata
-	shallow = true
-	registered = true
 [submodule "RKEELjars"]
 	path = RKEELjars
 	url = https://github.com/cran/RKEELjars
-	shallow = true
-	registered = true
