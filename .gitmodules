@@ -8,6 +8,3 @@
 [submodule "RKEELdata"]
 	path = RKEELdata
 	url = https://github.com/cran/RKEELdata
-[submodule "RKEELjars"]
-	path = RKEELjars
-	url = https://github.com/cran/RKEELjars
