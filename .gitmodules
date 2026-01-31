@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RKEEL"]
+	path = RKEEL
+	url = https://github.com/cran/RKEEL
 [submodule "RKEELdata"]
 	path = RKEELdata
 	url = https://github.com/cran/RKEELdata
